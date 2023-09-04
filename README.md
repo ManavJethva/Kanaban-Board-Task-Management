@@ -8,6 +8,8 @@ Created A Kanban Board Task Management app where there are three status groups T
 6. Task Status: Empower users to effortlessly drag and drop tasks between the To Do,
 Doing, and Done categories.
 It is a full stack with backend implementation. Here is a Screenshot of The app
+
 ![image](https://github.com/ManavJethva/Kanaban-Board-Task-Management/assets/110109336/64479cad-9525-4e73-9dcf-8bafd2977562)
+
 You can access the app through the below link
 https://kanaban-board-task-management.vercel.app/
