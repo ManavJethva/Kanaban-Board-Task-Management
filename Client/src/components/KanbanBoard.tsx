@@ -18,7 +18,7 @@ const KanbanBoard = () => {
     const sensors = useSensors(useSensor(PointerSensor, {
         activationConstraint: { distance: 3 }
     }))
-    const baseURL="http://localhost:3001";
+    const baseURL="https://kanban-piqf.onrender.com";
     // function createNewColumn () {
     //     const columnToAdd: Column = {
     //         id: generateId(),
